@@ -1,10 +1,10 @@
 # Easy Automation for BTCPay Server using Zapier - No Programming Skills Required
 
-Automate your BTCPay with [Zapier](https://zapier.com)! Whether you're looking to streamline payments notifications, or other workflow for your BTCPay instance, Zapier facilitates this with a seamless process, making it as simple as connecting blocks together. 
+Make BTCPay work for you with [Zapier](https://zapier.com)! Automate your business by connecting BTCPay to Zapier, easily setup workflows for payment notifications and many more.
 
 ## Free to Use
-The BTCPay Server Zapier integration is completely free! All you need is a [Zapier](https://zapier.com) account. 
-With the free plan, you can process up to 100 actions monthly and have 3 workflows called "Zaps".
+Get started automating your business today with a free [Zapier](https://zapier.com) account. 
+On the free plan, you can create up to 3 automated workflows (Zaps) and complete 100 actions each month.
 
 ## What can you do with BTCPay Server and Zapier?
 With the BTCPay Server integration on Zapier, you can automate a varierty of tasks:
