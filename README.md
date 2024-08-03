@@ -7,9 +7,11 @@ Get started automating your business today with a free [Zapier](https://zapier.c
 On the free plan, you can create up to 3 automated workflows (Zaps) and complete 100 actions each month.
 
 ## What can you do with BTCPay Server and Zapier?
-With the BTCPay Server integration on Zapier, you can automate a varierty of tasks:
-The BTCPay Server integration on Zapier defines a number of triggers that can be used to tell other applications what to do. You can chain multiple actions and create an entire workflow.
-Besides triggers, there is also a list of actions to make BTCPay Server do something you want. This can be creating an invoice, for example. In this case the trigger can be something happening on BTCPay Server or in another app or because you received an email.
+With the BTCPay Server integration on Zapier, you can automate a variety of tasks:
+The BTCPay Server integration on Zapier defines a number of triggers that can be used to tell other applications what to do. 
+You can chain multiple actions and create an entire workflow.
+Besides triggers, there is also a list of actions to make BTCPay Server do something you want. 
+This can be creating an invoice, for example. In this case the trigger can be something happening on BTCPay Server or in another app or because you received an email.
 
 A simple automation looks like this:
 ![Sample Workflow in Zapier](./doc/zap-sample1.png)
